@@ -1,0 +1,7 @@
+---
+manifest_version: "1"
+name: holochain-react-graphql-starter
+ui:
+  bundled: "../ui/dist.zip"
+happ_manifest:
+  bundled: "./holochain-react-graphql-starter.happ"
